@@ -2,4 +2,4 @@
 
 La conclusión de este proyecto es...
 
-IMAGEN
+[IMAGEN](img/black-man-drinking-water-after-running-in-urban-background-photo.jpg)
